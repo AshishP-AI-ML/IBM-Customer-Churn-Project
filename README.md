@@ -61,11 +61,10 @@ IBM Customer Churn Project/
 ├── model/
 │   └── churn_model.pkl
 ├── report_images/
-│   ├── churn_by_contract.png
+│   ├── kpi_and_driver_analysis.png
 │   ├── confusion_matrix.png
-│   ├── roc_curve.png
 │   └── feature_importance.png
-├── generate_images.py
+├── create_report.py
 ├── Ashish_Telco_Churn.ipynb
 ├── Ashish_ProjectReport.docx
 ├── README.md
